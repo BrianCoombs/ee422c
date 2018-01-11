@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_current_weather">CurrentWeather</string>
+    <string name="title_activity_hourly">Hourly</string>
+    <string name="title_activity_avg48_hours">Avg48Hours</string>
+    <string name="title_activity_weekly">Weekly</string>
+    <string name="title_activity_">Activity</string>
+    <string name="title_activity_past">Past</string>
+</resources>
